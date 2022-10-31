@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "goit-markup-hw-01",
+		"path": "."
+	},
+	{
+		"path": "../goit-markup-hm-02"
+	},
+	{
+		"path": "../resume 2.0"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "goit-markup-hm-02"
+  }
+}
